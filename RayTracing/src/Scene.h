@@ -4,6 +4,8 @@
 
 #include <vector>
 
+
+
 struct Material
 {
 	glm::vec3 Albedo{ 1.0f };
